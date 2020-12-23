@@ -1,3 +1,3 @@
 # RemoteImageView
 
-A description of this package.
+Loads preset images from the web asynchronously 
